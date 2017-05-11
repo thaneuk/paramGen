@@ -7,5 +7,5 @@ var urlParam = new UrlParameters();
 
 var paramString = urlParam.fromObj({
     a: {b: 1, c: 2},
-    d: [3, [9, [test, {data: []}]], {e: 5}]
+    d: [3, [9, ['test', {data: [99]}]], {e: 5}]
 });
