@@ -3,7 +3,7 @@
  */
 
 /**
- * ES4 Class for constructing url parameters from object/array with full recursion
+ * Class for constructing url parameters from object/array with full recursion
  * @class
  */
 function UrlParameters() {
