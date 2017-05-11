@@ -96,7 +96,7 @@ UrlParameters.prototype.enc = function (key, value) {
 
 /**
  * Simple array duplicator which additionally pushes a property onto the duplicated array
- * @param arr {array} array to duplicate
+ * @param arr {Array} array to duplicate
  * @param [item] {*} optional item to push onto array
  * @returns {Array}
  */
